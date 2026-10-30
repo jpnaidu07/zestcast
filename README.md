@@ -56,6 +56,6 @@ No default administrator password. No anonymous signaling or capture. No public 
 
 ## Repository publication
 
-The owner selected private `jpnaidu07/zestcast` and then requested keeping the repository local for now. No remote repository has been created. GitHub publication is deferred.
+The GitHub repository is private: [jpnaidu07/zestcast](https://github.com/jpnaidu07/zestcast). This initial repository contains the researched production plan; application implementation has not started.
 
 Do not commit real passwords, TURN secrets, private keys, recordings, packet captures, or unredacted diagnostic bundles. Licensing for this project's original code remains an owner decision; dependency licenses must be reviewed before distribution.
